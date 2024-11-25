@@ -1,0 +1,23 @@
+header {
+  background: #333;
+  color: #fff;
+  padding: 10px;
+}
+header ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+header ul li a {
+  color: white;
+  text-decoration: none;
+}
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
